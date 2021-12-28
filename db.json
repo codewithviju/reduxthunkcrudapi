@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "vijay",
+      "address": "Lakheni",
+      "email": "vijay@gmail.com",
+      "contact": "123456789"
+    },
+    {
+      "id": 2,
+      "name": "vipul",
+      "address": "Surat",
+      "email": "vipul@gmail.com",
+      "contact": "123456789"
+    },
+    {
+      "name": "vijay koladara",
+      "address": "lakheni",
+      "email": "vijay@gmail.com",
+      "contact": "7283819420",
+      "id": 3
+    },
+    {
+      "name": "ketan koladara",
+      "address": "Lakheni",
+      "email": "sales@sankhalainfo.co.in",
+      "contact": "7283819420",
+      "id": 4
+    },
+    {
+      "name": "hello",
+      "address": "hello",
+      "email": "hello@gmail.com",
+      "contact": "123456789",
+      "id": 5
+    }
+  ]
+}
